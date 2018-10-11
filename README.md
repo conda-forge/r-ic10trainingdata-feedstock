@@ -14,9 +14,9 @@ Summary: Training datasets for iC10; which implements the classifier described i
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-ic10trainingdata-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-ic10trainingdata-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-ic10trainingdata-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-ic10trainingdata-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-ic10trainingdata-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-ic10trainingdata-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-iC10TrainingData-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-iC10TrainingData-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-iC10TrainingData-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-iC10TrainingData-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-iC10TrainingData-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-iC10TrainingData-feedstock/branch/master)
 
 Current release info
 ====================
