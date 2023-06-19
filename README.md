@@ -1,11 +1,11 @@
-About r-ic10trainingdata
-========================
+About r-ic10trainingdata-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ic10trainingdata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=iC10TrainingData
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ic10trainingdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Training datasets for iC10; which implements the classifier described in the paper 'Genome-driven integrated classification of breast cancer validated in over 7,500 samples' (Ali HR et al., Genome Biology 2014). It uses copy number and/or expression form breast cancer data, trains a pamr classifier (Tibshirani et al.) with the features available and predicts the iC10 group. Genomic annotation for the training dataset has been obtained from Mark Dunning's lluminaHumanv3.db package.
 
